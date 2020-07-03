@@ -1,0 +1,15 @@
+{
+    "name": "Yaroslav Palenov",
+    "short_name": "Yaroslav Palenov",
+    "description": "Yaroslav Palenov – full-stack developer",
+    "start_url": "/",
+    "background_color": "#8a2be2",
+    "theme_color": "#8a2be2",
+    "icons": [
+        {
+            "src": "ico.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ]
+}
